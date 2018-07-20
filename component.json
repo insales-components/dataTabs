@@ -1,0 +1,12 @@
+{
+  "name": "DataTabs",
+  "version": "0.15.4",
+  "description": "Табы на jQuery",
+  "author": "LiquidHub.ru",
+  "type": "plugin",
+  "homepage": "https://github.com/insales-components/dataTabs",
+  "plugins": [{
+      "name": "dataTabs.js",
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/dataTabs@0.11.4/dist/dataTabs.js"]
+    }],
+  "dependencies": {}
